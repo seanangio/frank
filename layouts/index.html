@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      {{ partial "header" . }}
+      <section id="about">
+        <div class="container">
+        <div class="avatar">
+          <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
+        </div>
+        <h3><strong>{{ .Site.Params.author }}, DPT</strong></h3>
+        <h3>+30 years of experience as a Physical Therapist</h3>
+        <h3>Home clinic now open at:</h3>
+        <h3>417 Montier Rd Glenside, PA 19038 (Rear Parking and Entrance)</h3>
+        <h3>For references please view <a href="{{ .Site.BaseURL }}testimonials/"> testimonials</a>.</h3>
+        <h3>For further information please consult my <a href="https://demo.nurlan.co/hugo-vitae/">resume</a>.</h3>
+        <h3>For an appointment or inquiry, contact me by email at <a href="mailto:{{ .Site.Params.Social.Email }}">frank.angiolilllo@gmail.com</a> or call (215) 887-3622</h3>
+        {{ partial "social.html" . }}
+        </div>
+      </section>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>

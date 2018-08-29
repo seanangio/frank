@@ -1,0 +1,57 @@
+baseurl = "/"
+languageCode = "en-US"
+title = "Frank Angiolillo"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain-vitae"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Frank Angiolillo"
+  description = "Physical Therapy Clinic in Glenside"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  #Github        = "username"
+  Email         = "frank.angiolillo@gmail.com"
+  #Twitter       = "username"
+  #LinkedIn      = "username"
+  #Stackoverflow = "username"
+  #Medium        = "username"
+  #Telegram      = "username"
+
+[params.vitae]
+  website = "frankangiolillo.com"
+  website_full = "https://frankangiolillo.com"
+  tel = "(215) 887-3622"
+  tel_full = "+012158873622"
+  google_maps = "https://www.google.com/maps/place/417+Montier+Rd,+Glenside,+PA+19038,+USA/@40.1028663,-75.1629059"
+  address = "417 Montier Rd"
+  city = "Glenside, PA"
+  postcode = "19038"
+  #country = "United Kingdom"
+
+## Main Menu
+[[menu.main]]
+  #name = "blog"
+  #weight = 100
+  #identifier = "blog"
+  #url = "/blog/"
+[[menu.main]]
+  name = "testimonials"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/vitae/"
