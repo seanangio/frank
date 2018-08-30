@@ -1,27 +1,47 @@
 name: Employment
 source:
-  - prof: Senior Physical Therapist
-    place: Good Shepherd Penn Partners, Glenside PA
-    time: 2015 to 2018
-    description: Lorem ipsum dolor sit amet, his et viris petentium philosophia, at vix debitis deleniti. At vis velit volumus alienum, agam vocent assueverit usu ex.
+  - prof: Physical Therapist
+    place: Penn Therapy and Fitness, Glenside PA
+    time: Oct 2001 to Aug 2018, May 1997 to Apr 1999
+    #description: Lorem ipsum dolor sit amet, his et viris petentium philosophia, at vix debitis deleniti. At vis velit volumus alienum, agam vocent assueverit usu ex.
 
-  - prof: iOS Developer
-    place: Glasgow, UK
-    time: 2014 to 2015
-    description: Qui bonorum menandri intellegebat ex, mel quando oblique an. Et eam virtute debitis philosophia, unum ancillae disputationi vim in. Ipsum vidisse meliore ex eum, delectus tacimates conclusionemque has ei. Eam ubique cetero scribentur ne.
+  - prof: Lab Assistant
+    place: Thomas Jefferson University, Philadelphia PA
+    time: 1991 to Present
+    description: Introductory and Advanced Orthopedic Assessment Courses
+    
+  - prof: Physical Therapist
+    place: EXCEL Physical Therapy, Jenkintown PA
+    time: Apr 1999 to Oct 2001
+    #description: Apr 1999 to Oct 2001
+    
+  - prof: Owner/Director
+    place: Glenside Institute for Orthopedic Physical Therapy
+    time: Apr 1994 to May 1997
+    #description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
 
-  - prof: Teaching Assistant
-    place: University of Glasgow, Glasgow, UK
-    time: 2013 to 2014
-    description: Latine bonorum deserunt at nam. Mea nisl officiis eu, propriae similique has te, mei an brute meliore electram. Quo admodum omittantur ei, etiam principes at eos. Sit vocent commodo ceteros in, at mel idque everti.
-  
-  - prof: iOS Developer
-    place: Student Start-up, Glasgow, UK
-    time: 2013
-    description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
+  - prof: Physical Therapist
+    place: Hand and Orthopedic Rehabilitation Services, Levittown PA
+    time: Dec 1991 to Apr 1994
+    #description: Et sed tritani volumus, dico rebum facilisis ea sed. His mundi efficiantur concludaturque no. Cu eos argumentum constituam repudiandae, eu eum lorem nostrum, ei mel dicam iriure fabellas.
 
-  - prof: Web Developer
-    place: Birmingham, UK
-    time: 2007 to 2010
-    description: Et sed tritani volumus, dico rebum facilisis ea sed. His mundi efficiantur concludaturque no. Cu eos argumentum constituam repudiandae, eu eum lorem nostrum, ei mel dicam iriure fabellas.
+  - prof: Partner
+    place: Fox Chase Physical Therapy Associates, Rockledge PA
+    time: Apr 1986 to Dec 1993
+    #description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
+
+  - prof: Physical Therapist
+    place: Hand Rehabilitation Center, Philadelphia PA
+    time: May 1985 to Nov 1988
+    #description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
+
+  - prof: Staff Physical Therapist, Clinical Coordinator 
+    place: Holy Redeemer Hospital, Meadowbrook PA
+    time: April 1981 to May 1985 
+    #description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
+
+  - prof: Staff Physical Therapist 
+    place: North Penn Hospital, Lansdale PA
+    time: Oct 1980 to Apr 1981 
+    #description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
     

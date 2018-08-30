@@ -1,13 +1,37 @@
-name: Initiatives
+name: Professional Memberships & Certifications
 source:
-  - title: Graduate Summer Student
-    place: University of Glasgow, UK
-    date: 2013
-    type: courses
-    description: Nec et duis iriure temporibus, ullum adolescens eam ea.
+  - title: Licensure Information / Registration Number
+    place: PA - PT - 003830- L
+    date: Present 
+    #type: courses
+    #description: Nec et duis iriure temporibus, ullum adolescens eam ea.
+    
+  - title: American Physical Therapy Association (APTA)
+    place: Member
+    date: 1979 to Present 
+    #type: courses
+    #description: Nec et duis iriure temporibus, ullum adolescens eam ea.
 
-  - title: Student Volunteer
-    place: British RedCross, Glasgow, UK
-    date: 2013
-    type: fundraiser
-    description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+  - title: Orthopedic Section, APTA
+    place: Member
+    date: 1982 to Present 
+    #type: courses
+    #description: Nec et duis iriure temporibus, ullum adolescens eam ea.
+
+  - title: American Physical Therapy Association (APTA)
+    place: Certified as an Orthopedic Specialist
+    date: Apr 1990
+    type: Recertified
+    description: May 1999, May 2009 
+    
+  - title: McKenzie Institute, USA
+    place: Certified in Mechanical Diagnosis and Therapy
+    date: July 1996 
+    #type: fundraiser
+    #description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+
+  - title: International Spine and Pain Institute
+    place: Certified as Therapeutic Pain Specialist
+    date: Feb 2018
+    #type: fundraiser
+    #description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
