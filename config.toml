@@ -27,17 +27,18 @@ theme = "hugo-sustain-vitae"
   #Stackoverflow = "username"
   #Medium        = "username"
   #Telegram      = "username"
+  Facebook      = "frank.a.angiolillo"
 
 [params.vitae]
   website = "www.frankangiolillo.com"
-  website_full = "https://www.frankangiolillo.com"
+  website_full = "https://www.frankangiolillo.com/"
   tel = "(215) 512-4655"
   tel_full = "+012155124655"
   google_maps = "https://www.google.com/maps/place/417+Montier+Rd,+Glenside,+PA+19038,+USA/@40.1028663,-75.1629059"
   address = "417 Montier Rd"
   city = "19038"
   postcode = "Glenside, PA"
-  #country = "United Kingdom"
+  country = ""
 
 ## Main Menu
 [[menu.main]]
