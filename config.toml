@@ -47,10 +47,10 @@ theme = "hugo-sustain-vitae"
   #identifier = "blog"
   #url = "/blog/"
 [[menu.main]]
-  name = "testimonials"
-  identifier = "projects"
-  weight = 200
-  url = "/projects/"
+  #name = "testimonials"
+  #identifier = "projects"
+  #weight = 200
+  #url = "/projects/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
