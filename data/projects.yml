@@ -1,22 +1,25 @@
-name: Testimonials
+name: Letter to Patients
 source:
-  - icon: fa fa-user-circle
-    description: New testimonial, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-
-  - icon: fa fa-user-circle
-    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-
-  - icon: fa fa-user-circle
-    description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
+  - description: Dear Valued Patients, 
   
-  - icon: fa fa-user-circle
-    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+  - description: First and foremost, thank you for choosing me to be your physical therapy provider. I am grateful for the opportunity to work with you.
 
-  - icon: fa fa-user-circle
-    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
+  - description: At this time, I need to make you aware of some changes I plan to make in the structure and operation of my practice. I have reached a point in my life where my priorities have changed. I am 70 years old, and anxious to pursue several projects, both professional and personal, that have been “on the shelf” for several years.
+  
+  - description: Going forward; 
 
-  - icon: fa fa-user-circle
-    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+  - description: 1) As of June 1, 2022;
 
-  - icon: fa fa-user-circle
-    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
+  - description: I will accept only traditional Medicare as a third party payer insurance. Patients covered under other insurance plans are welcome to utilize self-pay ($85 for initial evaluation, $65 per treatment session), and I can provide an itemized receipt for my services, which may be able to be submitted to your insurance company for reimbursement. Please understand that if you choose this option, I am willing to provide the receipt, but the burden of submitting this receipt to your insurance company will fall upon you.
+
+  - description: 2) As of July 1,2022;
+  
+  - description: I will be starting a sabbatical of at least 6 months duration, effective July 1, 2022. What this means is that I will not be treating patients for 6 months. In order to facilitate an orderly continuation of care, I will stop accepting new patients as of April 25, 2022. I will attempt to continue accepting former patients for a new course of care as I am able, until my sabbatical begins on July 1, 2022.
+  
+  - description: Please understand that at present I plan to resume practicing sometime after January 1, 2023, i.e. I am not retiring. After 42 years of clinical practice, I just need a bit of a break.
+  
+  - description: Thank you again for your continued support. The work that I do as a Physical Therapist means the world to me, and this short break and restructuring of the practice will hopefully allow me to continue practicing for years to come.
+  
+  - description: Best wishes,
+  
+  - description: Frank Angiolillo, PT
