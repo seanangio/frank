@@ -2,24 +2,14 @@ name: Letter to Patients
 source:
   - description: Dear Valued Patients, 
   
-  - description: First and foremost, thank you for choosing me to be your physical therapy provider. I am grateful for the opportunity to work with you.
+  - description: This is a quick note to let you know that I am planning to resume patient care early in January, 2023. I thoroughly enjoyed my sabbatical, including in several ways I never anticipated.
 
-  - description: At this time, I need to make you aware of some changes I plan to make in the structure and operation of my practice. I have reached a point in my life where my priorities have changed. I am 70 years old, and anxious to pursue several projects, both professional and personal, that have been “on the shelf” for several years.
+  - description: Going forward, the most significant change in my practice that may affect you is my decision to limit the insurances I accept to traditional Medicare only. All other patients, including those covered under Medicare Advantage Plans, will be required to pay for their Physical Therapy sessions (cash or check only, no plastic). My rate is $65 per session, and $85 for initial evaluation.
   
-  - description: Going forward; 
+  - description: Please understand that this is a decision I have made only after a great deal of thought. Despite working with what I consider to be an efficient and knowledgeable billing agency, meeting insurance regulations in order for me to be paid were still requiring a far too significant amount of my time. 
 
-  - description: 1) As of June 1, 2022;
+  - description: Best wishes to you and your family for a Happy Holiday Season.
 
-  - description: I will accept only traditional Medicare as a third party payer insurance. Patients covered under other insurance plans are welcome to utilize self-pay ($85 for initial evaluation, $65 per treatment session), and I can provide an itemized receipt for my services, which may be able to be submitted to your insurance company for reimbursement. Please understand that if you choose this option, I am willing to provide the receipt, but the burden of submitting this receipt to your insurance company will fall upon you.
-
-  - description: 2) As of July 1,2022;
-  
-  - description: I will be starting a sabbatical of at least 6 months duration, effective July 1, 2022. What this means is that I will not be treating patients for 6 months. In order to facilitate an orderly continuation of care, I will stop accepting new patients as of April 25, 2022. I will attempt to continue accepting former patients for a new course of care as I am able, until my sabbatical begins on July 1, 2022.
-  
-  - description: Please understand that at present I plan to resume practicing sometime after January 1, 2023, i.e. I am not retiring. After 42 years of clinical practice, I just need a bit of a break.
-  
-  - description: Thank you again for your continued support. The work that I do as a Physical Therapist means the world to me, and this short break and restructuring of the practice will hopefully allow me to continue practicing for years to come.
-  
-  - description: Best wishes,
+  - description: Sincerely,
   
   - description: Frank Angiolillo, PT
